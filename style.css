@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-weight: 300;
+    font-family: sans-serif;
+}
+#apps{
+    background-color: burlywood;
+    text-align: center;
+
+}
+.line{
+    height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: 8px auto;
+
+}
+#games{
+    background-color: lime;
+}
+#chatbots{
+    background-color: aquamarine;
+}
+.links{
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+    display: inline;
+}
+.links:hover{
+    font-size:25px ;
+    text-decoration: underline;
+background-color: lightskyblue;
+}
+.menu{
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+}
+#mygames{
+    background-color: red;
+}
+img{
+    height: 300px;
+    margin-top: 35px;
+}
+p{
+    font-size: 20px;
+    margin-top: 15px;
+    color: white;
+}
